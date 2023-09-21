@@ -1,11 +1,11 @@
 ### Hi there 👋
 # 💫 About Me: ✨
-🔭 I’m currently working on AiTwitterBot a twitterAutomation tool<br>
-👯 I’m looking to collaborate on Ai<br>
+🔭 I’m currently working on [AiTwitterBot.com](https://aitwitterbot.com) a Twitter Automation tool with a Ai Twist!<br>
+👯 I’m looking to collaborate on Artificial Intelligence<br>
 🌱 I’m currently learning AWS, Azure, GCP, DevOps<br>
 💬 Ask me about Cloud<br>
-📫 How to reach me: httpd://jatin.dev<br>
-⚡ Fun fact:<br>
+📫 How to reach me: [Jatin.dev](https://jatin.dev)<br>
+⚡ Fun fact: I have worked on a BBC Micro!<br>
 
 
 ## 🌐 Socials:
