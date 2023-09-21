@@ -5,7 +5,7 @@
 🌱 I’m currently learning AWS, Azure, GCP, DevOps<br>
 💬 Ask me about Cloud<br>
 📫 How to reach me: [Jatin.dev](https://jatin.dev)<br>
-⚡ Fun fact: I have worked on a BBC Micro!<br>
+⚡ Fun fact:<br>
 
 
 ## 🌐 Socials:
