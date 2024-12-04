@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me: ✨
-🔭 I’m currently working on [AiTwitterBot.com](https://aitwitterbot.com) a Twitter Automation tool with a Ai Twist!<br>
+🔭 I’m currently working on [AiSocialPoster.com](https://aisocialposter.com) a Social Media Management & Post Scheduler tool with a Ai Twist!<br>
 👯 I’m looking to collaborate on Artificial Intelligence<br>
 🌱 I’m currently learning AWS, Azure, GCP, DevOps<br>
 💬 Ask me about Cloud<br>
